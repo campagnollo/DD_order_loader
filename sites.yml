@@ -1,0 +1,33 @@
+active_orders:
+  placeholder: 840
+  wsheet_id: 153328263
+arizona:
+  dri: Eric
+  placeholder: 10
+  time_zone: MST
+  wsheet_id: 377903264
+cava_alexandria:
+  dri: Brandi
+  placeholder: 99
+  time_zone: EST
+  wsheet_id: 1334580766
+cava_nyc:
+  dri: Brandi
+  placeholder: 296
+  time_zone: EST
+  wsheet_id: 1890549045
+mcallister_fairfax:
+  dri: Brandi
+  placeholder: 15
+  time_zone: EST
+  wsheet_id: 1997681133
+mcallister_front_royal:
+  dri: Brandi
+  placeholder: 5
+  time_zone: EST
+  wsheet_id: 587339234
+sweetgreen:
+  dri: Brandi
+  placeholder: 181
+  time_zone: EST
+  wsheet_id: 614264449
